@@ -88,7 +88,7 @@ PROJECT
 
 #project{
     margin: 40px auto;
-    width: 90%;
+    width: 80%;
 }
 
 #project h2{
@@ -96,11 +96,7 @@ PROJECT
 }
 
 #project .card img{
-    width: 140%;
-}
-
-#project .card img{
-    width: 120%;
+    width: 100%;
 }
 
 #project .card-title{
