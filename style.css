@@ -106,3 +106,7 @@ PROJECT
 #project .card-title{
     font-weight: bold;
 }
+
+#project .btn{
+    color: darkgray;
+}
