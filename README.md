@@ -15,4 +15,4 @@ No need to install any software. just open up index.html
 
 ## How to use ?
 
-Use this template to build your own portfolio 
+Use this template to build your own portfolio
